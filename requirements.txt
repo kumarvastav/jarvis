@@ -1,7 +1,7 @@
 PyAudio==0.2.11
 pyobjc==5.2
 pyttsx3==2.71
-requests==2.22.0
+requests==2.31.0
 SpeechRecognition==3.8.1
 urllib3==1.26.8
 weather-api==1.0.7
